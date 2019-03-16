@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.493 s <<< FAILURE! - in TestSuite
+f(march15.FirstScript)  Time elapsed: 1.957 s  <<< FAILURE!
+java.lang.NullPointerException
+	at march15.FirstScript.f(FirstScript.java:25)
+
